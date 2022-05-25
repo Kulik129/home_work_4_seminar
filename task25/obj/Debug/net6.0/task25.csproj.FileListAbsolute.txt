@@ -1,0 +1,15 @@
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/bin/Debug/net6.0/task25
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/bin/Debug/net6.0/task25.deps.json
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/bin/Debug/net6.0/task25.runtimeconfig.json
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/bin/Debug/net6.0/task25.dll
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/bin/Debug/net6.0/task25.pdb
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/task25.csproj.AssemblyReference.cache
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/task25.AssemblyInfoInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/task25.AssemblyInfo.cs
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/task25.csproj.CoreCompileInputs.cache
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/task25.dll
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/refint/task25.dll
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/task25.pdb
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/task25.genruntimeconfig.cache
+/Users/mitya.kulikbk.ru/Desktop/ДЗ/HomeWorkC#/dz4/task25/obj/Debug/net6.0/ref/task25.dll
